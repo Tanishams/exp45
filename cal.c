@@ -2,3 +2,8 @@
 int mul()
 {
   return a*b;}
+
+int add ()
+{
+return a+b;}
+
